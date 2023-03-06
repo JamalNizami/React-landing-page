@@ -22,6 +22,9 @@ nav{
     > h1{
         padding-left: 2%;
         text-transform: uppercase;
+        >.logo{
+            color: black;
+        }
     }
     >main{
         width: 70%;
